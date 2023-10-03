@@ -47,4 +47,4 @@ while Answer != Guess:
 if Answer == Guess:
   print(Guess)
   print('I got it!')
-print('Well then, thanks for playing.')```
+print('Well then, thanks for playing.')
